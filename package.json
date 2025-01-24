@@ -31,7 +31,6 @@
       "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
       "workbench.layoutControl.enabled": false,
       "workbench.productIconTheme": "jetbrains-new-ui-product-icons",
-      "workbench.panel.opensMaximized": "preserve",
       "workbench.panel.showLabels": false
     }
   },
