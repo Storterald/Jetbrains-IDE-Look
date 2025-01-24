@@ -19,7 +19,7 @@ tsconfig.json
 build.py
 
 # Resources
-resources/**
+resources/icon.svg
 
 # Other
 .showcase/
