@@ -18,5 +18,9 @@
 }
 
 .monaco-breadcrumbs .monaco-icon-label {
-    padding-bottom: 1%;
+    padding-bottom: 1px;
+}
+
+.outline-element-icon {
+    padding: 5px;
 }
